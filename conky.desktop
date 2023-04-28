@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Conky
+Type=Application
+Terminal=false
+Exec=conky -b
+Icon=conky
+Comment=Conky top
+Encoding=UTF-8
